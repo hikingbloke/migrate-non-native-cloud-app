@@ -66,7 +66,7 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 | *Azure Postgres Database* |   Basic, 1 vCore(s), 5 GB   | $18.49 |
 | *Azure App Service*   |  Free F1 1 GB memory        | $4.20 |
 | *Azure Functions*   |    serverless environment     | $2.40 |
-| *Azure Service Bus*   |   Basic      |              | $0.03 |
+| *Azure Service Bus*   |   Basic                     | $0.03 |
 | *Azure Storage*   |   StorageV2 (general purpose v2)   |  $3.75   |
 
 Free F1 1 GB memory
@@ -80,7 +80,7 @@ Built-in autoscale and load balancing
 
 Scaling the application on demand or Scaling down for non traffic hours gets easier.
 
-Salient feature of Azure Web Apps are available on
+Salient feature of Azure Web Apps are available on:  
 https://azure.microsoft.com/en-us/services/app-service/web/
 
 ### Azure Functions
@@ -90,5 +90,5 @@ Serverless Computing is also known as a "Function-as-a-Service". It eliminates t
 
 Function App is used in the application because we can process the email only when there is a message in a service bus queue. We will not have to pay when the Function App is not active.
 
-Salient feature of Azure Web Apps are available on
+Salient feature of Azure Web Apps are available on:  
 https://azure.microsoft.com/en-us/services/functions/
